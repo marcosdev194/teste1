@@ -1,1 +1,6 @@
 console.log("logins")
+pessoas = {
+    player1,
+    player2,
+    player3
+}
